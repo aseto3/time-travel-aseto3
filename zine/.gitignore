@@ -1,0 +1,6 @@
+# Operating System and other things
+.DS_Store
+Thumbs.db
+*.swp
+# building and exporting the project
+/dist/
