@@ -1,0 +1,1 @@
+To provide work made by Andrew Seto and have good examples of working git and programming objects.
